@@ -1,0 +1,5 @@
+names=['haya','rola','mahmoud','shaikha']
+capitalized_names[]
+ for name in names:
+ capitalized_names.append(names.title())
+  print(capitalized_names)
